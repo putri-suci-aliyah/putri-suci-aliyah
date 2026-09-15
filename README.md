@@ -1,11 +1,3 @@
-Tentu. Karena sekarang konteks ketiga project-mu sudah jelas, saya buatkan **versi GitHub Profile README lengkap** yang lebih profesional, aesthetic, dan tetap cocok untuk **HRD maupun developer**.
-
-Saya buat dengan positioning utama:
-
-> **Informatics Student → Aspiring Front-End Developer → punya pengalaman magang + project kampus**
-
-Kamu bisa langsung **copy seluruh isi di bawah ini ke `README.md` pada repository profil GitHub kamu**.
-
 # Hi, I'm Suci Aliyah Putri 👋🏻
 
 ### 💻 Informatics Student | Aspiring Front-End Developer
@@ -30,19 +22,19 @@ I enjoy turning ideas into functional, clean, and user-friendly digital experien
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+### Frameworks & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
@@ -56,7 +48,7 @@ I enjoy turning ideas into functional, clean, and user-friendly digital experien
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🏢 D'Botanica MOD Damage Report
 
@@ -64,7 +56,7 @@ I enjoy turning ideas into functional, clean, and user-friendly digital experien
 
 A web-based damage reporting system developed during my internship to help **Manager On Duty (MOD)** manage and monitor facility damage reports in Mall D'Botanica.
 
-### ✨ Key Features
+### Key Features
 
 - 🔐 Admin authentication
 - 📊 Dashboard
