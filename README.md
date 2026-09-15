@@ -6,7 +6,6 @@ Saya buat dengan positioning utama:
 
 Kamu bisa langsung **copy seluruh isi di bawah ini ke `README.md` pada repository profil GitHub kamu**.
 
-````markdown
 # Hi, I'm Suci Aliyah Putri 👋🏻
 
 ### 💻 Informatics Student | Aspiring Front-End Developer
@@ -178,7 +177,6 @@ UI/UX Design
 API Integration
     ↓
 Modern Web Development
-````
 
 I'm continuously improving my skills in **Front-End Development** and exploring better ways to create responsive, accessible, and user-friendly web applications.
 
