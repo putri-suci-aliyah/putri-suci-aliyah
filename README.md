@@ -237,32 +237,6 @@ Currently studying Informatics with an interest in:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=putri-suci-aliyah&show_icons=true&theme=tokyonight&hide_border=true&title_color=B98EFF&icon_color=E8A0BF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putri-suci-aliyah&layout=compact&theme=tokyonight&hide_border=true&title_color=B98EFF"/>
-
-</p>
-
----
-
-# 🎯 Career Goal
-
-<p align="center">
-
-### 💜 Aspiring Front-End Developer
-
-> Creating clean, responsive, accessible, and user-friendly digital experiences.
-
-</p>
-
-My goal is to continuously improve my technical and design skills while gaining more experience in building **real-world digital products**.
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -271,15 +245,15 @@ My goal is to continuously improve my technical and design skills while gaining 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/suci-aliyah-putri">
+<a href="www.linkedin.com/in/suci-aliyah-putri-6656042b8">
 <img src="https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/sucialyh">
+<a href="https://www.instagram.com/sucialyh/">
 <img src="https://img.shields.io/badge/Instagram-E8A0BF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sucialyh@gmail.com">
 <img src="https://img.shields.io/badge/Email-C9B6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
